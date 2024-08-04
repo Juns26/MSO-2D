@@ -1,0 +1,47 @@
+.slider-container { 
+    background-color: #ffffff; 
+    border: 2px solid lightblue; 
+    border-radius: 5px; 
+    padding: 15px; 
+    margin-bottom: 20px;
+    color:blue;
+}
+
+.parameter-selection {
+  height:250px;
+  overflow-y: auto;
+}
+.info-box{
+  text-align:right;
+  font-weight:bold;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.warning_msg {
+  font-weight:bold;
+  color:red;
+}
+
+.box_table{
+  height:400px;
+  overflow:auto;
+}
+.box_table_small {
+  height:125px;
+  overflow:auto;
+}
+
+.dataTable {
+  background-color: white
+}
+
+.indent {
+  margin-left:30px;
+}
+
+.charts_container {
+  width: 100%;
+  height: auto;
+}
