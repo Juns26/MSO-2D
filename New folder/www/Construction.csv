@@ -1,0 +1,11 @@
+﻿Jobs,Predecessor,Duration (days),Labor
+A,-,6,0
+B,A,1,1
+C,B,1,0
+D,A,3,0
+E,"C,D",2,2
+F,A,3,1
+G,"E,F",8,1
+H,A,6,2
+K,"G,H",2,2
+L,K,1,0
