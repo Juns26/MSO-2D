@@ -29,6 +29,13 @@ The home tab consist of 2 sections, instructions and sample data for download.
 
 - After correct input of data, view the project schedule, as well as other charts for costs and resource usage.
 ![Logo](https://raw.githubusercontent.com/Juns26/MSO-2D/main/images/dashboard_page.png)
+
+## Files
+1. construction.R : Code that contains the backend calculations
+2. app.R : Code that contains the frontend interface
+3. csv files : Available data to download to test out interface
+4. www : Code containing css stylings and csv files for interface download
+
 ## Requirements to run locally
 
 #### 1. Clone the project
